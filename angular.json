@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Stock-Management"
+    }
+  },
+  "defaultProject": "Stock-Management",
+  "cli": {
+    "analytics": false
+  }
 }
